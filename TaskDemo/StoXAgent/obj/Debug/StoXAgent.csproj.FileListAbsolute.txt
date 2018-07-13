@@ -1,0 +1,18 @@
+D:\33 实时业务监控系统\Code\STO.RBMA\StoXAgent\bin\StoXAgent.dll
+D:\33 实时业务监控系统\Code\STO.RBMA\StoXAgent\bin\StoXAgent.pdb
+D:\33 实时业务监控系统\Code\STO.RBMA\StoXAgent\bin\NewLife.Core.dll
+D:\33 实时业务监控系统\Code\STO.RBMA\StoXAgent\obj\Debug\StoXAgent.csprojResolveAssemblyReference.cache
+D:\33 实时业务监控系统\Code\STO.RBMA\StoXAgent\obj\Debug\ZtoXAgentForms.FrmMain.resources
+D:\33 实时业务监控系统\Code\STO.RBMA\StoXAgent\obj\Debug\StoXAgent.Properties.Resources.resources
+D:\33 实时业务监控系统\Code\STO.RBMA\StoXAgent\obj\Debug\StoXAgent.csproj.GenerateResource.Cache
+D:\33 实时业务监控系统\Code\STO.RBMA\StoXAgent\obj\Debug\StoXAgent.dll
+D:\33 实时业务监控系统\Code\STO.RBMA\StoXAgent\obj\Debug\StoXAgent.pdb
+D:\Demo\TaskDemo\TaskDemo\StoXAgent\bin\StoXAgent.dll
+D:\Demo\TaskDemo\TaskDemo\StoXAgent\bin\StoXAgent.pdb
+D:\Demo\TaskDemo\TaskDemo\StoXAgent\obj\Debug\ZtoXAgentForms.FrmMain.resources
+D:\Demo\TaskDemo\TaskDemo\StoXAgent\obj\Debug\StoXAgent.Properties.Resources.resources
+D:\Demo\TaskDemo\TaskDemo\StoXAgent\obj\Debug\StoXAgent.csproj.GenerateResource.cache
+D:\Demo\TaskDemo\TaskDemo\StoXAgent\obj\Debug\StoXAgent.csproj.CoreCompileInputs.cache
+D:\Demo\TaskDemo\TaskDemo\StoXAgent\obj\Debug\StoXAgent.csproj.CopyComplete
+D:\Demo\TaskDemo\TaskDemo\StoXAgent\obj\Debug\StoXAgent.dll
+D:\Demo\TaskDemo\TaskDemo\StoXAgent\obj\Debug\StoXAgent.pdb
