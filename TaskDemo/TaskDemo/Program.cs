@@ -10,7 +10,7 @@ namespace TaskDemo
     {
         static void Main(string[] args)
         {
-            TaskAgent.ServiceMain();
+            TaskAgent.ServiceMain()  ;
         }
     }
 }
